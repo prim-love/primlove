@@ -22,7 +22,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         id: deployment
         with:
-          path: public/
+          path: ./
 
   deploy:
     environment:
