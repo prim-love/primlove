@@ -1,2 +1,5 @@
 #+author: Indy Jamie Cunningham
 #+title:  index
+
+* Initial :blog:
+placeholder
