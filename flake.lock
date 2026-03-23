@@ -58,15 +58,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1773811586,
-        "narHash": "sha256-Tm+8A3IyTCXF6F+X6+FnUrAx+5IauwgvtYMSExWpSiM=",
-        "owner": "indynet",
+        "lastModified": 1774293050,
+        "narHash": "sha256-NUyeTFsmFly1qfFUV1MkqVIo5yNNyh3jGStLmjBg83w=",
+        "owner": "prim-love",
         "repo": "ox-blog",
-        "rev": "f53e49a8542a50f6b869f7bf18a9cd668f8ac1ef",
+        "rev": "7c7a0bddba078acf636f59c9d8a4e1c5deb92781",
         "type": "github"
       },
       "original": {
-        "owner": "indynet",
+        "owner": "prim-love",
         "repo": "ox-blog",
         "type": "github"
       }
