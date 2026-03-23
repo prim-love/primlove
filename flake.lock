@@ -58,11 +58,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1774293529,
-        "narHash": "sha256-prAUoXLhgRjuXmGELsvA94Oj2IKan6SVO9rjuXXWOUM=",
+        "lastModified": 1774294384,
+        "narHash": "sha256-r/wZtsuFhlOeRYiJ9UrhQ4R7rar1ahQ1LsiPjdGJSPA=",
         "owner": "prim-love",
         "repo": "ox-blog",
-        "rev": "b5f085971abdcfc7a544c7a9fb551308e078d002",
+        "rev": "a2f01ebe442e469d8e4a962609fb6837c8cad6e5",
         "type": "github"
       },
       "original": {
